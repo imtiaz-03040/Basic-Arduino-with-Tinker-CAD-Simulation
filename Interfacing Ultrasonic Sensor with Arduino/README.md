@@ -39,5 +39,7 @@ Division by 2 accounts for the signal traveling to the object and back.
 
 The Arduino Serial Monitor prints the calculated distance in real time.
 
+# 🏷️ Hashtags
+
 # #Arduino #UltrasonicSensor #DistanceMeasurement #HC_SR04 #EmbeddedSystems #IoT #DIYProject #Automation #Electronics #Tech
 
