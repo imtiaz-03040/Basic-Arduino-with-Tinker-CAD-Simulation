@@ -39,7 +39,9 @@ The Serial Monitor logs button presses for easy debugging.
 A delay(100) prevents multiple detections from a single press (basic debounce).
 # 🎵 Musical Notes Mapping
 <img width="242" height="356" alt="Image" src="https://github.com/user-attachments/assets/3056943f-b8ce-44ed-bb55-29338cdb2512" />
+
 # 🔍 Working Principle
+
 digitalRead(pin) detects button states.
 
 tone(piezoPin, frequency, duration) plays the sound on the buzzer.
