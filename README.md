@@ -13,7 +13,7 @@ Each project in this repository comes with:
 
 ✅ Circuit diagram and component list
 # 💡 Projects Included
-[Project Simulation Link.docx](https://github.com/user-attachments/files/21138920/Project.Simulation.Link.docx)
+[Project Simulation Link.pdf](https://github.com/user-attachments/files/21139467/Project.Simulation.Link.pdf)
 
 
 # 🎓 Who Is This For?
