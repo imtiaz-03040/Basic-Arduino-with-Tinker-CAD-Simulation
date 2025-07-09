@@ -12,6 +12,8 @@ Each project in this repository comes with:
 ✅ A working Tinkercad simulation link
 
 ✅ Circuit diagram and component list
+# 💡 Projects Included
+[Project Simulation Link.docx](https://github.com/user-attachments/files/21138920/Project.Simulation.Link.docx)
 
 
 # 🎓 Who Is This For?
